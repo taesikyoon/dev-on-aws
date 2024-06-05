@@ -113,7 +113,6 @@ Resources:
         BlockPublicPolicy: false
         IgnorePublicAcls: false
         RestrictPublicBuckets: false
-      BucketName: "polly-mp3-bucket-unique-name"
 
   # S3 Bucket Policy for MP3 Hosting
   MP3BucketPolicy:
